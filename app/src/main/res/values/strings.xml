@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatePickerDialog</string>
+    <string name="open_calender">Open Calender</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="submit">submit</string>
+</resources>
