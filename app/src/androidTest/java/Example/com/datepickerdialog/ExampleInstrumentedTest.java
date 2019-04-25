@@ -1,4 +1,4 @@
-package escapadetechnologies.com.datepickerdialog;
+package Example.com.datepickerdialog;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

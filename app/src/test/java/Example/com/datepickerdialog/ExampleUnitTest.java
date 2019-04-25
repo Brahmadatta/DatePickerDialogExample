@@ -1,4 +1,4 @@
-package escapadetechnologies.com.datepickerdialog;
+package Example.com.datepickerdialog;
 
 import org.junit.Test;
 
